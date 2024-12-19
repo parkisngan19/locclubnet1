@@ -1,12 +1,12 @@
 LocClub Net
 ===================================
 
-`LocClub <http://locclub.net/>`_ là một cổng game bài đổi thưởng đáng để thử. Với các tính năng đa dạng, hệ thống bảo mật và thanh toán an toàn, cùng với dịch vụ chăm sóc khách hàng tốt, LocClub sẽ mang đến cho người chơi những trải nghiệm thú vị và 
+`LocClub <https://locclub.net/>`_ là một cổng game bài đổi thưởng đáng để thử. Với các tính năng đa dạng, hệ thống bảo mật và thanh toán an toàn, cùng với dịch vụ chăm sóc khách hàng tốt, LocClub sẽ mang đến cho người chơi những trải nghiệm thú vị và 
 hấp dẫn.
 
 Liên hệ:
 
-Website : http://locclub.net/
+Website : https://locclub.net/
 
 Địa chỉ: 172 Phan Đăng Lưu, Hoà Cường Bắc, Hải Châu, Đà Nẵng
 
