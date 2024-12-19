@@ -1,22 +1,17 @@
-Welcome to Lumache's documentation!
+LocClub Net
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`LocClub <http://locclub.net/>`_ là một cổng game bài đổi thưởng đáng để thử. Với các tính năng đa dạng, hệ thống bảo mật và thanh toán an toàn, cùng với dịch vụ chăm sóc khách hàng tốt, LocClub sẽ mang đến cho người chơi những trải nghiệm thú vị và 
+hấp dẫn.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Liên hệ:
 
-.. note::
+Website : http://locclub.net/
 
-   This project is under active development.
+Địa chỉ: 172 Phan Đăng Lưu, Hoà Cường Bắc, Hải Châu, Đà Nẵng
 
-Contents
---------
+Phone: 0336158232
 
-.. toctree::
+Post Code: 550000
 
-   usage
-   api
+#locclubnet #locclub #choigamelocclub #applocclub #gamebailocclub
